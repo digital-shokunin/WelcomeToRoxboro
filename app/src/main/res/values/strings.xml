@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Welcome to Roxboro</string>
+    <string name="start_button">Play</string>
+    <string name="title_content">Welcome to Roxboro!</string>
+
+</resources>
