@@ -15,4 +15,8 @@ Someguy@who.cares`
 `If you get a response you are a lucky guy. That is all.`
 
 
-Icon generated using: http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+Icon generated using [Android Asset Studio's Launcher Icon Generator][icon-gen]
+Original Pascal code for the game is here: [ROXBORO.PAS][roxboro]
+ 
+ [icon-gen]: http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+ [roxboro]: https://gist.github.com/digital-shokunin/695c55278262d23180b5
